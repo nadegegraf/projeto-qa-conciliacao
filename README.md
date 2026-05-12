@@ -3,8 +3,8 @@
 Este projeto demonstra a estruturação completa de um fluxo de QA para conciliação financeira, com foco em integridade de dados e conformidade com LGPD.
 
 ## Ferramentas Utilizadas
-* **Google Sheets**: Planejamento e Matriz de Casos de Teste. [Acesse a Planilha aqui]([https://google.com](https://docs.google.com/spreadsheets/d/1WFSED-WMCQUxCGm0hFPtHFzlPpJ0s69gC39vekAvE3k/edit?usp=sharing)
-* * **Jira Service Management**: Gestão de incidentes e documentação técnica dos bugs.
+* **Google Sheets**: Planejamento e Matriz de Casos de Teste. [Acesse a Planilha aqui]([https://google.co](https://docs.google.com/spreadsheets/d/1WFSED-WMCQUxCGm0hFPtHFzlPpJ0s69gC39vekAvE3k/edit?usp=sharing))
+* **Jira Service Management**: Gestão de incidentes e documentação técnica dos bugs.
 * **GitHub**: Portfólio oficial e histórico de documentação.
 
 ---
@@ -28,6 +28,7 @@ Falha crítica onde o sistema não diferencia a modalidade de pagamento, aceitan
 
 ---
 *Nota: Todos os dados sensíveis foram protegidos (tarjas vermelhas/pretas) para garantir a segurança da informação conforme diretrizes de LGPD.*
+
 
 
 
