@@ -30,3 +30,4 @@ Falha crítica onde o sistema não diferencia a modalidade de pagamento, aceitan
 *Nota: Todos os dados sensíveis foram protegidos (tarjas vermelhas/pretas) para garantir a segurança da informação conforme diretrizes de LGPD.*
 
 
+
